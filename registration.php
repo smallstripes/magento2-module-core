@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright © SmallStripes, Inc. All rights reserved.
+ * Copyright © SmallStripes. All rights reserved.
  * See COPYING.txt for license details.
  */
 

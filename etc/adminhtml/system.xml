@@ -4,7 +4,7 @@
         <tab id="smallstripes" translate="label" sortOrder="2000" class="smallstripes-tab">
             <label>SmallStripes</label>
         </tab>
-        <section id="smallstripes_general" translate="label" type="text" sortOrder="1000" showInDefault="1" showInWebsite="1" showInStore="1">
+        <section id="smallstripes_general" translate="label" type="text" sortOrder="0" showInDefault="1" showInWebsite="1" showInStore="1">
             <label>General</label>
             <tab>smallstripes</tab>
             <resource>SmallStripes_Core::config_general</resource>
